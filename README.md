@@ -1,2 +1,27 @@
-# CarManagementSystem-Java
-Console-based Car Management System in Java using OOP (B.E IT, Jadavpur University).
+
+# Car Management System (Java Console Project)
+
+A menu-driven **Java** console application to manage showrooms, employees, and cars using basic object-oriented programming concepts.
+
+## Features
+
+- Add, view, and update showroom details.
+- Add, view, and update employee details.
+- Add, view, and update car details.
+- Uses a common interface (`Body`) and arrays of objects.
+
+## Technologies
+
+- Java (Core)
+- Console input with `Scanner`
+- OOP: classes, interface, arrays of objects
+
+## How to Run
+
+javac CarManagementSystem.java
+java CarManagementSystem
+
+
+## Author
+
+B.E Information Technology student, Jadavpur University (1st year).
