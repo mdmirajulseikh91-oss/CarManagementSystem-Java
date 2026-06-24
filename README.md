@@ -18,8 +18,8 @@ A menu-driven **Java** console application to manage showrooms, employees, and c
 
 ## How to Run
 
-javac CarManagementSystem.java
-java CarManagementSystem
+javac  OOPS/CarMangementSystem/CarManagementSystem.java
+java OOPS.CarMangementSystem.CarManagementSystem
 
 
 ## Author
